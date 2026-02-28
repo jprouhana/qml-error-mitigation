@@ -1,6 +1,6 @@
 # qml-error-mitigation
 
-testing zero-noise extrapolation and measurement error mitigation on a noisy VQC. seeing how much accuracy we can recover at different error rates.
+Testing zero-noise extrapolation and measurement error mitigation on a noisy VQC. Lets see how much accuracy we can recover at different error rates.
 
 ## setup
 
